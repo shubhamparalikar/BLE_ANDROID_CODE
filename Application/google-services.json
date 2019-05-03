@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1020941378348",
+    "firebase_url": "https://ble-esp32.firebaseio.com",
+    "project_id": "ble-esp32",
+    "storage_bucket": "ble-esp32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020941378348:android:057e92167ca9714a",
+        "android_client_info": {
+          "package_name": "com.example.android.bluetoothlegatt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020941378348-semfgrpdaunpcj772kas7d1f0dr601v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCk6mDxsq2ypCmGIZTjPgexQ3-Rt8ezhw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020941378348-semfgrpdaunpcj772kas7d1f0dr601v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
